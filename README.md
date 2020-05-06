@@ -25,5 +25,5 @@ npm start
 
 ## tsconfig.json file:
 
-dist directory has compiled js code.
-src directory has the TypeScript src code.
+dist directory has compiled js code
+src directory has the TypeScript src code
